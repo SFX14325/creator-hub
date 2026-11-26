@@ -1,0 +1,9 @@
+{
+  "demo": true,
+  "currency": "USD",
+  "donate_url": "",
+  "background": "assets/background.svg",
+  "colors": {
+    "accent": "#a9baff"
+  }
+}

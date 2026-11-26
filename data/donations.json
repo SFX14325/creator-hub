@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sample supporter A",
+    "total_amount": 150,
+    "donation_count": 8
+  },
+  {
+    "name": "Sample supporter B",
+    "total_amount": 75,
+    "donation_count": 4
+  },
+  {
+    "name": "Anonymous (sample)",
+    "total_amount": 10,
+    "donation_count": 1
+  }
+]

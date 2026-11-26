@@ -1,0 +1,17 @@
+{
+  "timezone": "Central Time (CT)",
+  "events": [
+    {
+      "day": "Monday",
+      "time": "6:00 PM",
+      "type": "Upload",
+      "title": "Weekly video"
+    },
+    {
+      "day": "Friday",
+      "time": "7:00 PM",
+      "type": "Stream",
+      "title": "Community stream"
+    }
+  ]
+}

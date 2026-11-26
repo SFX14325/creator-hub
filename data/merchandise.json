@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Creator T-shirt",
+    "description": "Sample merchandise listing.",
+    "price": 24.99,
+    "image": "assets/placeholder.svg",
+    "url": "",
+    "status": "Coming soon"
+  },
+  {
+    "title": "Community rewards",
+    "description": "Future supporter rewards.",
+    "url": "",
+    "status": "Coming soon"
+  }
+]
